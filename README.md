@@ -2,4 +2,4 @@
    
 Hello my name is MiJeong
 
-<img width=""hight="" src="./Png/dog.png"></img>
+<img width=""hight="" src="./Png/강아지.Png"></img>
