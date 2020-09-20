@@ -1,7 +1,8 @@
-# MyFirstRepository
-   
-Hello my name is MiJeong
+# 19173071 강미정
 
-<img width="" height="" src="./Png/dog.png.PNG"></img>
+## 1주차 과제
 
+## 2주차 과제
 <img width="" height="" src="./Png/My Application.PNG"></img>
+
+## 3주차 과제
